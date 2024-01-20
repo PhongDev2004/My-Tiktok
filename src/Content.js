@@ -1,4 +1,4 @@
-import { useEffect, useLayoutEffect, useState, useRef, memo } from "react";
+// import { useEffect, useLayoutEffect, useState, useRef, memo } from 'react';
 
 //   1. useEffect(callback)
 // - Gọi callback mỗi khi component re-render
@@ -252,4 +252,4 @@ import { useEffect, useLayoutEffect, useState, useRef, memo } from "react";
 //   );
 // }
 
-export default Content;
+// export default Content;
