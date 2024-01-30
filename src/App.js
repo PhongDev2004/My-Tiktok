@@ -6,7 +6,7 @@ import { DefaultLayout } from '~/components/Layout';
 function App() {
     return (
         <Router>
-            <div style={{ padding: '0 32px' }} className="app">
+            <div className="app">
                 <Routes>
                     {publicRouter.map((route, index) => {
                         const Page = route.component;
